@@ -1,4 +1,4 @@
-﻿string[] array1 = new string[6] {"888", "77", "hello", "world", "aux"};
+﻿string[] array1 = new string[5] {"888", "77", "hello", "world", "aux"};
 string[] array2 = new string[array1.Length];
 void WithIFArray(string[] array1, string[] array2)
 {
